@@ -33,7 +33,7 @@ I'm a passionate developer with a keen interest in software development, data sc
 Here are a few of my highlighted projects:
 
 ### [Project Name](https://github.com/your-username/project-repo)
-A brief description of the project and what it does.
+A brief description of the project and what it does. IIIT
 
 ### [Another Project](https://github.com/your-username/another-project-repo)
 A brief description of the project and what it does.
